@@ -1,3 +1,4 @@
 # contacts-sync-coredata
 
-![alt text](TheamChange.gif)
+![alt text](ContactFetchFirstTime.gif)
+![alt text](ContactAlreadySync.gif)
